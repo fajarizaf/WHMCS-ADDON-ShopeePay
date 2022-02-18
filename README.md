@@ -1,1 +1,1 @@
-<h3>WHMCS ADDON - Shopeepay Payment Gateway</h3>
+<h3>WHMCS ADDON - ShopeePay Payment Gateway</h3>
