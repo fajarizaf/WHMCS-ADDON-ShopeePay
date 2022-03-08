@@ -1,3 +1,3 @@
-<img src="https://i.ibb.co/xftdyyT/Plugin-WHMCS-2.png" width="100%"/>
 <h3>WHMCS ADDON - ShopeePay Payment Gateway</h3>
+<img src="https://i.ibb.co/ChTYcxh/slide-shopeepay.jpg" width="100%"/>
 
